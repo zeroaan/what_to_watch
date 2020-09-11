@@ -1,0 +1,31 @@
+.detail__container {
+  display: flex;
+  margin: 80px 200px;
+  max-width: 1000px;
+}
+.detail__poster img {
+  width: 300px;
+}
+.detail__data {
+  margin-left: 80px;
+}
+.detail__title {
+  font-size: 35px;
+}
+.detail__year {
+  font-size: 18px;
+  margin-top: 55px;
+}
+.detail__genres {
+  list-style: none;
+}
+.detail__genres li {
+  display: inline;
+  padding: 10px;
+  position: relative;
+  left: -50px;
+}
+.detail__summary {
+  margin-top: 55px;
+  font-size: 20px;
+}
