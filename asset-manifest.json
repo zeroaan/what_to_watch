@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react_study/static/css/main.044a078d.chunk.css",
-    "main.js": "/react_study/static/js/main.e323d3d5.chunk.js",
-    "main.js.map": "/react_study/static/js/main.e323d3d5.chunk.js.map",
-    "runtime-main.js": "/react_study/static/js/runtime-main.7665ff03.js",
-    "runtime-main.js.map": "/react_study/static/js/runtime-main.7665ff03.js.map",
-    "static/js/2.03729dac.chunk.js": "/react_study/static/js/2.03729dac.chunk.js",
-    "static/js/2.03729dac.chunk.js.map": "/react_study/static/js/2.03729dac.chunk.js.map",
-    "index.html": "/react_study/index.html",
-    "precache-manifest.b6857df4719265d2cb65ff7a506d5184.js": "/react_study/precache-manifest.b6857df4719265d2cb65ff7a506d5184.js",
-    "service-worker.js": "/react_study/service-worker.js",
-    "static/css/main.044a078d.chunk.css.map": "/react_study/static/css/main.044a078d.chunk.css.map",
-    "static/js/2.03729dac.chunk.js.LICENSE.txt": "/react_study/static/js/2.03729dac.chunk.js.LICENSE.txt"
+    "main.css": "/what_to_watch/static/css/main.7972c32a.chunk.css",
+    "main.js": "/what_to_watch/static/js/main.524402b7.chunk.js",
+    "main.js.map": "/what_to_watch/static/js/main.524402b7.chunk.js.map",
+    "runtime-main.js": "/what_to_watch/static/js/runtime-main.26f159f2.js",
+    "runtime-main.js.map": "/what_to_watch/static/js/runtime-main.26f159f2.js.map",
+    "static/js/2.77275e5f.chunk.js": "/what_to_watch/static/js/2.77275e5f.chunk.js",
+    "static/js/2.77275e5f.chunk.js.map": "/what_to_watch/static/js/2.77275e5f.chunk.js.map",
+    "index.html": "/what_to_watch/index.html",
+    "precache-manifest.1e5fc069058c6ced67676287c2720bbb.js": "/what_to_watch/precache-manifest.1e5fc069058c6ced67676287c2720bbb.js",
+    "service-worker.js": "/what_to_watch/service-worker.js",
+    "static/css/main.7972c32a.chunk.css.map": "/what_to_watch/static/css/main.7972c32a.chunk.css.map",
+    "static/js/2.77275e5f.chunk.js.LICENSE.txt": "/what_to_watch/static/js/2.77275e5f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7665ff03.js",
-    "static/js/2.03729dac.chunk.js",
-    "static/css/main.044a078d.chunk.css",
-    "static/js/main.e323d3d5.chunk.js"
+    "static/js/runtime-main.26f159f2.js",
+    "static/js/2.77275e5f.chunk.js",
+    "static/css/main.7972c32a.chunk.css",
+    "static/js/main.524402b7.chunk.js"
   ]
 }
