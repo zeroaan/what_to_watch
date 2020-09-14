@@ -4,12 +4,10 @@ import "./Detail.css";
 class Detail extends React.Component {
   componentDidMount() {
     const { location, history } = this.props;
-    console.log(location.state);
     if (location.state === undefined) {
       history.push("/");
     }
   }
-  com;
   render() {
     const { location } = this.props;
 
@@ -23,7 +21,7 @@ class Detail extends React.Component {
       return (
         <div className="detail__container">
           <div className="detail__poster">
-            <img src={poster} alt={title} />
+            <img src={poster} alt={title} title={title} />
           </div>
           <div className="detail__data">
             <h3 className="detail__title">{title}</h3>
