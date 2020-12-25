@@ -1,7 +1,8 @@
-# Movie App
+# What To Watch - Movie App
 
 - 링크 : https://zeroaan.github.io/what_to_watch/
 - 기간 : 20년 9월 7일 ~ 9월 10일
+- 소개 : React를 처음 사용해보고 익히면서 만들어본 사이트로 영화 API를 가져와 화면에 출력해 보았다. Home 페이지에는 영화 제목과 개봉 년도, 장르, 포스터를 보이게 했으며, 해당 영화를 클릭시 짧은 영화 줄거리까지 나올 수 있도록 만들었다.
 
 <br>
 
@@ -86,9 +87,7 @@ class Home extends React.Component {
       data: {
         data: { movies },
       },
-    } = await axios.get(
-      "https://yts-proxy.now.sh/list_movies.json?sort_by=rating"
-    );
+    } = await axios.get("https://yts-proxy.now.sh/list_movies.json?sort_by=rating");
     this.setState({ movies, isLoading: false });
   };
   componentDidMount() {
